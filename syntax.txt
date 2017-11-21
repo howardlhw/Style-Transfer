@@ -1,0 +1,4 @@
+python evaluate.py --checkpoint <checkpoint file> --in-path <img path> --out-path ./output_image.jpg
+
+example
+python evaluate.py --checkpoint ./rain-princess.ckpt --in-path ./chicago.jpg --out-path ./output_image.jpg
